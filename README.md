@@ -1,4 +1,6 @@
-# Hapi
+![Hapi Logo](https://st.timeweb.com/cloud-static/apps-logo/hapi.svg)
+
+# Hapi on Deno
 
 Пример приложения [Hapi](https://hapi.dev/) на [Deno](https://deno.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
